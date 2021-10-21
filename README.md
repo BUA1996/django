@@ -1,0 +1,2 @@
+# django
+practical-django-series
